@@ -1,0 +1,15 @@
+git init . 
+git add . 
+git status
+git commit 
+git diff
+mkdir 
+dir 
+ls 
+ls -a
+rm 
+vi
+
+
+
+
