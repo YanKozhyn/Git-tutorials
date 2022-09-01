@@ -5,6 +5,7 @@
 ⊛ git diff (show difference between files)
 ⊛ git restore --staged <file>
 ⊛ git log (history of commits)
+     git log --oneline (for better view)
 ⊛ git show <hesh of commit> (show commit)
 ⊛ git commit -m "message"(create commit)
     git commit --amend -m "message"(rewrite last commit)
