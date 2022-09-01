@@ -3,7 +3,7 @@ git add . (add files to stage area)
 git status (tracking files)
 git commit -m "comment" (commit files)
 git diff (show difference between files)
-git restore 
+git restore --staged <file>
 git log (history of commits)
 git show <hesh of commit> (show commit)
 git commit --amend -m (rewrite last commit)
