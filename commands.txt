@@ -7,14 +7,21 @@ git restore
 git log (history of commits)
 git show <hesh of commit> (show commit)
 git commit --amend -m (rewrite last commit)
+<<<<<<< HEAD
 git push -u origin main (push commits to github repo)
+=======
+>>>>>>> 0ebc9e3c4becf69d24d29c86e066b17c53fd15f6
 mkdir (create new folder)
 dir (show content of folder)
 ls (at the same of dir)
 ls -a (with hiden files)
 rm (for removing)
+<<<<<<< HEAD
 vi (for view and edit file(press 'i' to insert something, press 'esc' than write 
 ':wq' to exit from file)
+=======
+vi (for view and edit file)
+>>>>>>> 0ebc9e3c4becf69d24d29c86e066b17c53fd15f6
 
 
 
