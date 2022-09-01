@@ -18,4 +18,3 @@ vi (for view and edit file(press 'i' to insert something, press 'esc' than write
 
 
 
-
