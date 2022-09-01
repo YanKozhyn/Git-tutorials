@@ -17,7 +17,7 @@
 ⊛ rm (for removing)
 ⊛ vi (for view and edit file(press 'i' to insert something, press 'esc' than write 
     ':wq' to exit from file, also allow to create file)
-⊛ cat
+⊛ cat <file> (show file's content)
 
 
 
