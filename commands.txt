@@ -1,21 +1,22 @@
-git init . (initialise repository)
-git add . (add files to stage area)
-git status (tracking files)
-git commit -m "comment" (commit files)
-git diff (show difference between files)
-git restore --staged <file>
-git log (history of commits)
-git show <hesh of commit> (show commit)
-git commit --amend -m (rewrite last commit)
-git push -u origin main (push commits to github repo)
-git pull (pulling files from github to local repo)
-mkdir (create new folder)
-dir (show content of folder)
-ls (at the same of dir)
-ls -a (with hiden files)
-rm (for removing)
-vi (for view and edit file(press 'i' to insert something, press 'esc' than write 
-':wq' to exit from file, also allow to create file)
+○ git init . (initialise repository)
+○ git add . (add files to stage area)
+○ git status (tracking files)
+○ git commit -m "comment" (commit files)
+○ git diff (show difference between files)
+○ git restore --staged <file>
+○ git log (history of commits)
+○ git show <hesh of commit> (show commit)
+○ git commit --amend -m (rewrite last commit)
+○ git push -u origin main (push commits to github repo)
+○ git pull (pulling files from github to local repo)
+○ mkdir (create new folder)
+○ dir (show content of folder)
+○ ls (at the same of dir)
+    ls -a (with hiden files)
+○ rm (for removing)
+○ vi (for view and edit file(press 'i' to insert something, press 'esc' than write 
+    ':wq' to exit from file, also allow to create file)
+○ cat
 
 
 
